@@ -9,7 +9,8 @@
 
 ​	（鼓励大家多多在issue提问，以便于更快熟悉Github）
 
-![image-20260128111659415](C:\Users\14394\AppData\Roaming\Typora\typora-user-images\image-20260128111659415.png)
+<img width="1453" height="691" alt="image-20260128111659415" src="https://github.com/user-attachments/assets/6742b58a-1d8a-46df-85ad-994b06c1fb86" />
+
 
 ### 二、任务细则
 
